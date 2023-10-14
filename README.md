@@ -1,4 +1,4 @@
-# API Strapi Delivroo clone
+# API Strapi & Stripe Restaurant Delivery Web App
 
 
 ### Install dependencies
